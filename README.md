@@ -1,6 +1,6 @@
-## Dotfiles for arch+KDE+Kwin
+## Dotfiles for arch+KDE+KWin
 
-This is for **OS: arch, DE: KDE, WM: Kwin (Wayland)**.
+This is for **OS: arch, DE: KDE, WM: KWin (Wayland)**.
 
 At the time of the last commit, the kernel is: ```Linux 6.10.10-arch1-1```.
 
