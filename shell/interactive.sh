@@ -64,5 +64,6 @@ alias VESTA="/home/rudeus/bin/VESTA-gtk3-x86_64/VESTA.sh"
 alias ci="code-insiders -r"
 alias ytaudio='yt-dlp -f bestaudio'
 alias ytvideo='yt-dlp -f bestvideo+bestaudio'
+alias ytfzf='ytfzf -T sixel'
 # --------------------------------------------- #
 
