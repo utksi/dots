@@ -1,1 +1,14 @@
-/home/rudeus/.config/elisarc
+[ElisaFileIndexer]
+RootPath[$e]=$HOME/Music
+
+[PlayerSettings]
+ScanAtStartup=false
+
+[Playlist]
+AlwaysUseAbsolutePlaylistPaths=true
+
+[UiSettings]
+ColorScheme=Breeze Dark
+
+[Views]
+ColorScheme=Breeze Dark

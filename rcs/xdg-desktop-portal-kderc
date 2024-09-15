@@ -1,1 +1,3 @@
-/home/rudeus/.config/xdg-desktop-portal-kderc
+[FileDialogSize]
+2 screens: Height=576
+2 screens: Width=1024

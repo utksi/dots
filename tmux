@@ -1,1 +1,0 @@
-/home/rudeus/.config/tmux

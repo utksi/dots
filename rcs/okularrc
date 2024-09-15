@@ -1,1 +1,15 @@
-/home/rudeus/.config/okularrc
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Renewal Premium Receipt 3.pdf
+File2[$e]=$HOME/Downloads/us-2024.pdf
+Name1[$e]=Renewal Premium Receipt 3.pdf
+Name2[$e]=us-2024.pdf

@@ -1,1 +1,13 @@
-/home/rudeus/.config/arkrc
+[ExtractDialog]
+DirHistory[$e]=$HOME/.config/audacious/,$HOME/temp/VESTA/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+
+[Viewer]
+ToolBarsMovable=Disabled

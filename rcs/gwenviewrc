@@ -1,1 +1,12 @@
-/home/rudeus/.config/gwenviewrc
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.wallpapers/planet-ocean.jpg
+Name1[$e]=planet-ocean.jpg
+
+[SideBar]
+InformationSplitterSizes=0,0

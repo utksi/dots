@@ -1,1 +1,6 @@
-/home/rudeus/.config/plasmanotifyrc
+[Applications][brave-browser]
+Seen=true
+
+[DoNotDisturb]
+NotificationSoundsMuted=true
+Until=2025,9,12,22,12,20.588

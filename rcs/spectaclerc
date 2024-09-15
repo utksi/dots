@@ -1,1 +1,9 @@
-/home/rudeus/.config/spectaclerc
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveLocation=file:///home/rudeus/Pictures/Screenshots/Screenshot_20240912_111236.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

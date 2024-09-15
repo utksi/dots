@@ -1,1 +1,2 @@
-/home/rudeus/.config/okularpartrc
+[PageView]
+MouseMode=TextSelect

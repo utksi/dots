@@ -1,1 +1,11 @@
-/home/rudeus/.config/konsolerc
+[Desktop Entry]
+DefaultProfile=rudeus.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=

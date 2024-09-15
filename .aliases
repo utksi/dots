@@ -1,1 +1,59 @@
-/home/rudeus/.config/.aliases
+# --------------------------------------------- #
+alias sudo="sudo "
+
+alias grep='grep -n --color=auto'
+alias cls='clear'
+
+# improved ls
+alias l="eza"
+alias ll="eza -l -G"
+alias L="eza -la"
+alias vi='/usr/bin/nvim'
+alias vim='/usr/bin/vim'
+
+# Servers
+alias tetralith='ssh -X x_utksi@tetralith-el9.nsc.liu.se'
+alias sigma='ssh -X x_utksi@sigma.nsc.liu.se'
+alias dardel='ssh -X usingh@dardel.pdc.kth.se'
+alias alvis='ssh -X singhu@alvis1.c3se.chalmers.se'
+alias dedur='sftp utksi60@dedur01.it.liu.se:/data/utksi60'
+
+# compilers
+alias gcc='/usr/bin/gcc-13'
+alias g++='/usr/bin/g++-13'
+alias gfortran='/usr/bin/gfortran-13'
+
+alias cc='/usr/bin/gcc-13'
+alias CC='/usr/bin/gcc-13'
+alias cxx='/usr/bin/g++-13'
+alias CXX='/usr/bin/g++-13'
+alias fortran='/usr/bin/gfortran-13'
+alias FC='/usr/bin/gfortran-13'
+
+# mpi
+alias gmpicc='/usr/local/bin/mpicc'
+alias gmpicxx='/usr/local/bin/mpicxx'
+alias gmpic++='/usr/local/bin/mpic++'
+alias gmpifort='/usr/local/bin/mpifort'
+alias gmpif77='/usr/local/bin/mpif77'
+alias gmpif90='/usr/local/bin/mpif90'
+alias gmpirun='/usr/local/bin/mpirun'
+alias gmpiexec='/usr/local/bin/mpiexec'
+alias gmpihydra='/usr/local/bin/mpiexec.hydra'
+alias gmpivars='/usr/local/bin/mpivars'
+
+# Some Git alias
+alias gg="git status"
+alias ggd="git diff"
+alias gga="git add"
+alias ggc="git commit -m"
+alias ggp="git push"
+
+## venv
+# py-venv
+alias opto="source ~/.venv/opto/bin/activate.fish"
+alias wann2j="source ~/.venv/wann2j/bin/activate.fish"
+
+# Applications
+alias ci="code -r"
+# --------------------------------------------- #

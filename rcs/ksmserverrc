@@ -1,1 +1,15 @@
-/home/rudeus/.config/ksmserverrc
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10138e4d3da000172626479000000010470003
+clientId2=10138e4d3da000172630332100000010470006
+count=2
+program1=firefox
+program2=firefox
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10138e4d3da000172626479000000010470003
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10138e4d3da000172630332100000010470006
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=rudeus
+userId2=rudeus

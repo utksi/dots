@@ -1,1 +1,5 @@
-/home/rudeus/.config/bluedevilglobalrc
+[Adapters]
+38:7A:0E:1C:CC:F7_powered=true
+
+[Devices]
+connectedDevices=

@@ -1,1 +1,8 @@
-/home/rudeus/.config/kxkbrc
+[Layout]
+DisplayNames=,
+LayoutList=us,se
+Model=pc86
+Options=grp:ctrl_space_toggle
+ResetOldOptions=true
+Use=true
+VariantList=,

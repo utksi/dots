@@ -1,1 +1,3 @@
-/home/rudeus/.config/kiorc
+[Confirmations]
+ConfirmDelete=true
+ConfirmEmptyTrash=true

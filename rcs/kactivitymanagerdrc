@@ -1,1 +1,5 @@
-/home/rudeus/.config/kactivitymanagerdrc
+[activities]
+4cb39639-7ec4-4f97-9ffc-61b08daaecb9=Default
+
+[main]
+currentActivity=4cb39639-7ec4-4f97-9ffc-61b08daaecb9

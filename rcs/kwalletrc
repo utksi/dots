@@ -1,1 +1,2 @@
-/home/rudeus/.config/kwalletrc
+[Wallet]
+First Use=false
